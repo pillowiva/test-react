@@ -192,7 +192,7 @@ const LoginLight = () => {
                                         <MyButton
                                             onClick={handleLogin}
                                             type="submit"
-                                            style={{ backgroundColor: '#1F5CB6', color: '#ffffff', w }}
+                                            style={{ backgroundColor: '#1F5CB6', color: '#ffffff'}}
                                         >
                                             {t('button-login')}
                                         </MyButton>
